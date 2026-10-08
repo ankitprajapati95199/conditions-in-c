@@ -104,11 +104,9 @@ gcc -Wall -Wextra program16.c -o program16
 ```
 Level 1: Basics & I/O  ➜  Level 2: Conditions (you are here)  ➜  Level 3: Loops  ➜  ...
 ```
-```
 
 ➡️ Next up: [conditions-in-c]()
 
----
 ---
 
 <div align="center">
